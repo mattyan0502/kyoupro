@@ -10,7 +10,7 @@ namespace KyougiProgramming
     {
         static void Main(string[] args)
         {
-            ABC015A.Main(args);
+            
         }
     }
 }
