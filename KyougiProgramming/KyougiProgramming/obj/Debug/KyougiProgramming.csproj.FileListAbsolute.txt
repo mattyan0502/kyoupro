@@ -1,0 +1,7 @@
+C:\Users\mattyan\Source\Repos\mattyan0502\kyoupro\KyougiProgramming\KyougiProgramming\bin\Debug\KyougiProgramming.exe.config
+C:\Users\mattyan\Source\Repos\mattyan0502\kyoupro\KyougiProgramming\KyougiProgramming\bin\Debug\KyougiProgramming.exe
+C:\Users\mattyan\Source\Repos\mattyan0502\kyoupro\KyougiProgramming\KyougiProgramming\bin\Debug\KyougiProgramming.pdb
+C:\Users\mattyan\Source\Repos\mattyan0502\kyoupro\KyougiProgramming\KyougiProgramming\obj\Debug\KyougiProgramming.csprojAssemblyReference.cache
+C:\Users\mattyan\Source\Repos\mattyan0502\kyoupro\KyougiProgramming\KyougiProgramming\obj\Debug\KyougiProgramming.csproj.CoreCompileInputs.cache
+C:\Users\mattyan\Source\Repos\mattyan0502\kyoupro\KyougiProgramming\KyougiProgramming\obj\Debug\KyougiProgramming.exe
+C:\Users\mattyan\Source\Repos\mattyan0502\kyoupro\KyougiProgramming\KyougiProgramming\obj\Debug\KyougiProgramming.pdb

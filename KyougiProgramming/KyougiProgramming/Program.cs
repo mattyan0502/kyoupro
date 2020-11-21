@@ -10,7 +10,7 @@ namespace KyougiProgramming
     {
         static void Main(string[] args)
         {
-            Atcoder.ABC.ABC014B.Main(args);
+            ABC015A.Main(args);
         }
     }
 }
