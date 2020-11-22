@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\KyougiProgramming",
-    "\\KyougiProgramming\\KyougiProgramming"
+    "\\KyougiProgramming\\KyougiProgramming",
+    "\\KyougiProgramming\\KyougiProgramming\\Atcoder",
+    "\\KyougiProgramming\\KyougiProgramming\\bin",
+    "\\KyougiProgramming\\KyougiProgramming\\bin\\Debug",
+    "\\KyougiProgramming\\KyougiProgramming\\obj"
   ],
-  "SelectedNode": "\\KyougiProgramming\\KyougiProgramming\\ABC015A.cs",
+  "SelectedNode": "\\KyougiProgramming\\KyougiProgramming.sln",
   "PreviewInSolutionExplorer": false
 }
