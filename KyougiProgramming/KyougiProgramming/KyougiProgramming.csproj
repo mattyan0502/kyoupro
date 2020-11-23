@@ -46,6 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Atcoder\ABC\ABC015B.cs" />
+    <Compile Include="Atcoder\ABC\ABC016A.cs" />
+    <Compile Include="Atcoder\ABC\ABC016B.cs" />
+    <Compile Include="Atcoder\ABC\ABC017A.cs" />
     <Compile Include="Atcoder\ABC\ABC184A.cs" />
     <Compile Include="Atcoder\ABC\ABC184B.cs" />
     <Compile Include="Program.cs" />
