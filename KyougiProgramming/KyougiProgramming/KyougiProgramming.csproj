@@ -46,10 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ABC015A.cs" />
     <Compile Include="Atcoder\ABC\ABC184A.cs" />
     <Compile Include="Atcoder\ABC\ABC184B.cs" />
-    <Compile Include="Atcoder\ABC\Class1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
