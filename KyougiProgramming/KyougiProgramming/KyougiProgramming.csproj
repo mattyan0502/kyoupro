@@ -50,6 +50,15 @@
     <Compile Include="Atcoder\ABC\ABC016A.cs" />
     <Compile Include="Atcoder\ABC\ABC016B.cs" />
     <Compile Include="Atcoder\ABC\ABC017A.cs" />
+    <Compile Include="Atcoder\ABC\ABC017B.cs" />
+    <Compile Include="Atcoder\ABC\ABC018A.cs" />
+    <Compile Include="Atcoder\ABC\ABC018B.cs" />
+    <Compile Include="Atcoder\ABC\ABC019A.cs" />
+    <Compile Include="Atcoder\ABC\ABC019B.cs" />
+    <Compile Include="Atcoder\ABC\ABC020A.cs" />
+    <Compile Include="Atcoder\ABC\ABC020B.cs" />
+    <Compile Include="Atcoder\ABC\ABC021A.cs" />
+    <Compile Include="Atcoder\ABC\ABC021B.cs" />
     <Compile Include="Atcoder\ABC\ABC184A.cs" />
     <Compile Include="Atcoder\ABC\ABC184B.cs" />
     <Compile Include="Program.cs" />
