@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ARC110A.cs" />
     <Compile Include="Atcoder\ABC\ABC015B.cs" />
     <Compile Include="Atcoder\ABC\ABC016A.cs" />
     <Compile Include="Atcoder\ABC\ABC016B.cs" />
@@ -59,14 +60,28 @@
     <Compile Include="Atcoder\ABC\ABC020B.cs" />
     <Compile Include="Atcoder\ABC\ABC021A.cs" />
     <Compile Include="Atcoder\ABC\ABC021B.cs" />
+    <Compile Include="Atcoder\ABC\ABC139B.cs" />
+    <Compile Include="Atcoder\ABC\ABC156C.cs" />
     <Compile Include="Atcoder\ABC\ABC184A.cs" />
     <Compile Include="Atcoder\ABC\ABC184B.cs" />
+    <Compile Include="Atcoder\ARC\ARC109A.cs" />
+    <Compile Include="Atcoder\Other\Qualification simulator.cs" />
+    <Compile Include="Atcoder\Other\Tax Rate.cs" />
+    <Compile Include="Atcoder\PAST\P4_A.cs" />
+    <Compile Include="Atcoder\PAST\P4_B.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Paiza\A\" />
+    <Folder Include="Paiza\B\" />
+    <Folder Include="Paiza\C\" />
+    <Folder Include="Paiza\D\" />
+    <Folder Include="Paiza\S\" />
+    <Folder Include="yukicoder\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

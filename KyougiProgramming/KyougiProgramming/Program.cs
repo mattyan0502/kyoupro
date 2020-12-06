@@ -10,7 +10,7 @@ namespace KyougiProgramming
     {
         static void Main(string[] args)
         {
-            Atcoder.ABC.ABC021B.Main(args);
+            Atcoder.Other.Tax_Rate.Main(args);
         }
     }
 }
