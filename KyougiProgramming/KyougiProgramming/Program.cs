@@ -10,7 +10,7 @@ namespace KyougiProgramming
     {
         static void Main(string[] args)
         {
-            Atcoder.Other.Tax_Rate.Main(args);
+            Paiza.POH.POH7megane.Main(args);
         }
     }
 }

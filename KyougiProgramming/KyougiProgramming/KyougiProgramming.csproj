@@ -46,7 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ARC110A.cs" />
     <Compile Include="Atcoder\ABC\ABC015B.cs" />
     <Compile Include="Atcoder\ABC\ABC016A.cs" />
     <Compile Include="Atcoder\ABC\ABC016B.cs" />
@@ -60,11 +59,34 @@
     <Compile Include="Atcoder\ABC\ABC020B.cs" />
     <Compile Include="Atcoder\ABC\ABC021A.cs" />
     <Compile Include="Atcoder\ABC\ABC021B.cs" />
+    <Compile Include="Atcoder\ABC\ABC022A.cs" />
+    <Compile Include="Atcoder\ABC\ABC022B.cs" />
+    <Compile Include="Atcoder\ABC\ABC023A.cs" />
+    <Compile Include="Atcoder\ABC\ABC023B.cs" />
+    <Compile Include="Atcoder\ABC\ABC024A.cs" />
+    <Compile Include="Atcoder\ABC\ABC025A.cs" />
+    <Compile Include="Atcoder\ABC\ABC025B.cs" />
+    <Compile Include="Atcoder\ABC\ABC068B.cs" />
+    <Compile Include="Atcoder\ABC\ABC074B.cs" />
+    <Compile Include="Atcoder\ABC\ABC086B.cs" />
+    <Compile Include="Atcoder\ABC\ABC088B.cs" />
+    <Compile Include="Atcoder\ABC\ABC121B.cs" />
+    <Compile Include="Atcoder\ABC\ABC126A.cs" />
+    <Compile Include="Atcoder\ABC\ABC126B.cs" />
     <Compile Include="Atcoder\ABC\ABC139B.cs" />
     <Compile Include="Atcoder\ABC\ABC156C.cs" />
+    <Compile Include="Atcoder\ABC\ABC157B.cs" />
     <Compile Include="Atcoder\ABC\ABC184A.cs" />
     <Compile Include="Atcoder\ABC\ABC184B.cs" />
+    <Compile Include="Atcoder\ABC\ABC185A.cs" />
+    <Compile Include="Atcoder\ABC\ABC185B.cs" />
+    <Compile Include="Atcoder\ABC\ABC185C.cs" />
     <Compile Include="Atcoder\ARC\ARC109A.cs" />
+    <Compile Include="Atcoder\Other\Bishop.cs" />
+    <Compile Include="Atcoder\Other\pana2020.cs" />
+    <Compile Include="Atcoder\Other\pana2020A.cs" />
+    <Compile Include="Atcoder\Other\pana2020B.cs" />
+    <Compile Include="Atcoder\Other\pana2020C.cs" />
     <Compile Include="Atcoder\Other\Qualification simulator.cs" />
     <Compile Include="Atcoder\Other\Tax Rate.cs" />
     <Compile Include="Atcoder\PAST\P4_A.cs" />
@@ -76,11 +98,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Paiza\A\" />
-    <Folder Include="Paiza\B\" />
-    <Folder Include="Paiza\C\" />
-    <Folder Include="Paiza\D\" />
-    <Folder Include="Paiza\S\" />
     <Folder Include="yukicoder\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
